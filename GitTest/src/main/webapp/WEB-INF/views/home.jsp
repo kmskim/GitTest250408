@@ -11,8 +11,11 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 <h1>github update</h1>
+<<<<<<< HEAD
 
 <h1> eclipes update2 </h1>
+=======
+>>>>>>> branch 'main' of https://github.com/kmskim/GitTest250408.git
 
 </body>
 </html> 
