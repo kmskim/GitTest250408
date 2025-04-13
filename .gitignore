@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/eclipse,java,maven
-# Edit at https://www.toptal.com/developers/gitignore?templates=eclipse,java,maven
+# Created by https://www.toptal.com/developers/gitignore/api/java,eclipse,maven
+# Edit at https://www.toptal.com/developers/gitignore?templates=java,eclipse,maven
 
 ### Eclipse ###
 .metadata
@@ -112,7 +112,4 @@ buildNumber.properties
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 
-# End of https://www.toptal.com/developers/gitignore/api/eclipse,java,maven
-
-# *.properties
-config/*.properties
+# End of https://www.toptal.com/developers/gitignore/api/java,eclipse,maven
