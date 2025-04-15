@@ -8,7 +8,7 @@
 <title>board/content.jsp</title>
 </head>
 <body>
-
+<h1>김민수 바보가?</h1>
 <jsp:include page="../inc/top.jsp"></jsp:include>
 
 <h1>board/content.jsp</h1>
