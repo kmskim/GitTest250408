@@ -9,6 +9,7 @@
 </head>
 <body>
 <h1>김민수 바보가?</h1>
+<h2>이나아</h2>
 <jsp:include page="../inc/top.jsp"></jsp:include>
 
 <h1>board/content.jsp</h1>
